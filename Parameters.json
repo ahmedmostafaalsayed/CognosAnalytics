@@ -1,0 +1,17 @@
+{
+	"parameters":
+	[
+		{
+			"name": "CAMNamespace",
+			"value": "Harmony LDAP"
+		},
+		{
+			"name": "CAMUsername",
+			"value": "Administrator"
+		},
+		{
+			"name": "CAMPassword",
+			"value": "IBMDem0s"
+		}
+	]
+}
